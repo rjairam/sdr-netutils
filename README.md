@@ -1,9 +1,9 @@
 # SDR-NetUtils
 
-Some small utilities I use to make my life easier with various network configs for FlexRadios. 
+Some small utilities I use to make my life easier with various network configs for internet connected radios (eg. FlexRadio 6000/8000/Aurora)
 
 ## VITA-49 Emulator
-flex_vita49_emulator.py - used to emulate a broadcast of FlexRadios so you can access them from another routed LAN such as a VPN.
+flex_vita49_emulator.py - used to emulate a broadcast of FlexRadio 6000/8000/Aurora series so you can access them from another routed LAN such as a VPN.
 
 ### Usage
   python3 flex_vita49_emulator.py [options]
